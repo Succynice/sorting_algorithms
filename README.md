@@ -201,5 +201,5 @@ Function Prototype:
 
 *****
 
-## Authors
+## Author
 [CHIKEZIE SUCCESS](https://github.com/Succynice)
