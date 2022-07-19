@@ -129,6 +129,9 @@ Function Prototype:
   a `listint_t` doubly-linked list of integers in ascending order using the Cocktail Shaker Sort algorithm.
   * Prints the list after each swap.
   * [101-O](./101-O): Text file containing the best, average, and worst case time complexities of the Cocktail Shaker Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **6. Counting sort**
   * [102-counting_sort.c](./102-counting_sort.c): C function that sorts an array of integers in ascending order using the Counting Sort algorithm.
