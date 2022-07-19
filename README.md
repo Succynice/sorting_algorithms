@@ -90,22 +90,34 @@ Function Prototype:
       * in the worst case
 
 * **1. Insertion sort**
+  * [insertion sort: Youtube video](https://www.youtube.com/watch?v=ROalU379l3U&feature=emb_imp_woyt)
   * [1-insertion_sort_list.c](./1-insertion_sort_list.c): C function that sorts a `listint_t` doubly-linked list of integers in ascending order using the
   Insertion Sort algorithm.
   * Prints the list after each swap.
   * [1-O](./1-O): Text file containing the best, average, and worst case time complexities of the Insertion Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **2. Selection sort**
+  * [selection sort: Youtube video](https://www.youtube.com/watch?v=Ns4TPTC8whw&feature=emb_imp_woyt)
   * [2-selection_sort.c](./2-selection_sort.c): C function that sorts an array of integers in ascending order using the Selection Sort algorithm.
   * Prints the array after each swap.
   * [2-O](./2-O): Text file containing the best, average, and worst case time complexities of the Selection Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **3. Quick sort**
+  * [quick sort: Youtube video](https://www.youtube.com/watch?v=ywWBy6J5gz8&feature=emb_imp_woyt)
   * [3-quick_sort.c](./3-quick_sort.c): C function that sorts an array of integers in ascending order using the Quick Sort algorithm.
   * Implements the Lomuto partition scheme.
   * Always uses the last element of the partition being sorted as the pivot.
   * Prints the array after each swap.
   * [3-O](./3-O): Text file containing the best, average, and worst case time complexities of the Quick Sort Lomuto Partition scheme algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **4. Shell sort - Knuth Sequence**
   * [100-shell_sort.c](./100-shell_sort.c): C function that sorts an array of integers in ascending order using the Shell sort algorithm.
