@@ -87,7 +87,7 @@ Function Prototype:
 ## Tasks :page_with_curl:
 
 * **0. Bubble sort**
-  * ![Bubble Sort: Youtube video](https://www.youtube.com/watch?v=lyZQPjUT5B4&feature=emb_imp_woyt)
+  * [Bubble Sort: Youtube video](https://www.youtube.com/watch?v=lyZQPjUT5B4&feature=emb_imp_woyt)
   * [0-bubble_sort.c](./0-bubble_sort.c): C function that sorts an array of integers in ascending order using the Bubble Sort algorithm.
   * Prints the array after each swap.
   * [0-O](./0-O): Text file containing the best, average, and worst case time complexities of the Bubble Sort algorithm, one per line.
