@@ -1,6 +1,8 @@
 # C - Sorting algorithms & Big O
 
-In this project, I implemented several different sorting algorithms.
+In this project, I learnt about Algorithm (a set of well-defined instructions to solve a particular problem) and Big O (a way to measure an algorithm's efficiency). I also implemented several different sorting algorithms.
+
+*****
 
 ## Tests :heavy_check_mark:
 
@@ -78,6 +80,8 @@ Function Prototype:
 | ------------------ | ------------------------------------- |
 | 1000-deck_node.c | `void sort_deck(deck_node_t **deck);` |
 
+*****
+
 ## Tasks :page_with_curl:
 
 * **0. Bubble sort**
@@ -138,6 +142,9 @@ Function Prototype:
   * Assumes that the array will only contain numbers `>= 0`.
   * Prints the counting array after it has been initialized.
   * [102-O](./102-O): Text file containing the best, average, and worst case time complexities of the Counting Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **7. Merge sort**
   * [103-merge_sort.c](./103-merge_sort.c): C function that sorts an array of integers in ascending order using the Merge Sort algorithm.
@@ -146,12 +153,18 @@ Function Prototype:
     * Always sorts the left subarray before the right one.
   * Prints subarrays each time they are merged.
   * [103-O](./103-O): Text file containing the best, average, and worst case time complexities of the Merge Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **8. Heap sort**
   * [104-heap_sort.c](./104-heap_sort.c): C function that sorts an array of integers in ascending order using the Heap Sort algorithm.
   * Implements the `sift-down` Heap Sort algorithm.
   * Prints the array after each swap.
   * [104-O](./104-O): Text file containing the best, average, and worst case time complexiites of the Heap Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **9. Radix sort**
   * [105-radix_sort.c](./105-radix_sort.c): C function that sorts an array of integers in ascending order using the Radix Sort algorithm.
@@ -165,6 +178,9 @@ Function Prototype:
   * Assumes that `size` is a power of 2 (ie. `size` can be expressed as `2^k` where `k >= 0`).
   * Prints subarrays each time they are merged.
   * [106-O](./106-O): Text file containing the best, average, and worst case time complexities of the Bitonic Sort algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **11. Quick Sort - Hoare Partition scheme**
   * [107-quick_sort_hoare.c](./107-quick_sort_hoare.c): C function that sorts an array of integers in ascending order using the Quick Sort algorithm.
@@ -172,8 +188,16 @@ Function Prototype:
   * Always uses the last elemement of the partition being sorted as the pivot.
   * Prints the array after each swap.
   * [107-O](./107-O): Text file containing the best, average, and worst case time complexities of the Quick Sort Hoare Partition cheme algorithm, one per line.
+      * in the best case
+      * in the average case
+      * in the worst case
 
 * **12. Dealer**
   * [1000-sort_deck.c](./1000-sort_deck.c): C function that sorts a `deck_node_t` doubly-linked list deck of cards.
   * Assumes that there are exactly `52` elements in the doubly-linked list.
   * Orders the deck from spades to diamonds and from aces to kings.
+
+*****
+
+## Authors
+[CHIKEZIE SUCCESS](https://github.com/Succynice)
